@@ -30,9 +30,6 @@ nvidia-cusolver-cu11==11.4.0.1
 nvidia-cusparse-cu11==11.7.4.91
 nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
-python-apt==2.4.0+ubuntu1
-python-dateutil==2.8.2
-python-debian===0.1.43ubuntu1
 python-decouple==3.8
 python-dotenv==0.21.1
 python-multipart==0.0.6
